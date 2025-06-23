@@ -9,7 +9,7 @@ import cohere
 import re
 
 # ------------------------------
-API_KEY = "uzJZyN9GN4xgmIAjbN6GuvCOhbUQa2SDLATPtQCy"
+API_KEY = "u api"
 co = cohere.Client(API_KEY)
 # ------------------------------
 
